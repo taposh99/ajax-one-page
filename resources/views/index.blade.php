@@ -12,7 +12,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <title>Basic Work</title>
+    <title>small poject</title>
 </head>
 
 
@@ -42,13 +42,13 @@
                 <label for="code" class="form-label">Code</label>
                 <input type="text" name="code" class="form-control" placeholder="Code">
 
-                <label for="Name" class="form-label">Name</label>
+                <label for="Name" class="form-label">Name list</label>
                 <input type="text" name="name" class="form-control" placeholder="Name">
 
                 <label for="dob" class="form-label">Date of birth</label>
                 <input type="date" name="dob" id="dob" class="form-control" placeholder="Date of birth" onchange="calculateAge()">
 
-                <label for="age" class="form-label">Age</label>
+                <label for="age" class="form-label">Age list</label>
                 <input type="text" name="age" id="age" class="form-control" placeholder="Age" readonly>
             </div>
             <div class="col">
