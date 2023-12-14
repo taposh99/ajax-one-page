@@ -39,7 +39,7 @@
        
         <div class="row">
             <div class="col">
-                <label for="code" class="form-label">Code</label>
+                <label for="code" class="form-label">Code< list/label>
                 <input type="text" name="code" class="form-control" placeholder="Code">
 
                 <label for="Name" class="form-label">Name list</label>
@@ -58,7 +58,7 @@
                     <option value="female">Female</option>
                 </select>
 
-                <label for="o_number" class="form-label">User Name</label>
+                <label for="o_number" class="form-label">User Name list</label>
                 <input type="text" name="user_name" class="form-control" placeholder="user_name">
 
                 <label for="password" class="form-label">Password</label>
@@ -81,7 +81,7 @@
       <thead>
         <tr>
           <th scope="col">Code</th>
-          <th scope="col">Name</th>
+          <th scope="col">Name< list/th>
          
           <th scope="col">Age</th>
           <th scope="col">Sex</th>
